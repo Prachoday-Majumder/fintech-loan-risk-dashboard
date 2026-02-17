@@ -1,4 +1,9 @@
 # fintech-loan-risk-dashboard
+
+colab link: https://colab.research.google.com/drive/1_9G8tX7wfnS76oes7AZQYvZKUMCZeKAn?usp=sharing
+
+fintech_loan_dashboard deploy link: https://fintech-loan-risk-dashboard-juozbl8tpnpi23mwjueqqy.streamlit.app
+
 Interactive Streamlit dashboard analyzing 40,000 loan records with risk segmentation, default analysis, and portfolio insights for fintech decision-making.
 🚀 FinTech Loan Risk Intelligence Dashboard
 
