@@ -4,50 +4,50 @@ Interactive Streamlit dashboard analyzing 40,000 loan records with risk segmenta
 
 An interactive Streamlit-based analytics dashboard built on a 40,000-record loan dataset to provide real-time portfolio insights, default analysis, and risk segmentation for fintech lending decisions.
 
-📊 Key Features
+📊 Key Features:
 
-📈 Portfolio-level KPIs (Total Volume, Default %, Avg Rate)
+    📈 Portfolio-level KPIs (Total Volume, Default %, Avg Rate)
 
-🥧 Loan Status Distribution
+    🥧 Loan Status Distribution
 
-📊 Interest Rate Analytics
+    📊 Interest Rate Analytics
 
-🔍 Advanced Filtering (State, Status, Job Title)
+    🔍 Advanced Filtering (State, Status, Job Title)
 
-⚠️ High-Risk Loan Identification Engine
+    ⚠️ High-Risk Loan Identification Engine
 
-📥 Export filtered datasets to CSV
+     📥 Export filtered datasets to CSV
 
 📋 Segmented Views:
 
-All Loans
+      All Loans
 
-Defaulters
+      Defaulters
 
-Current Loans
+      Current Loans
 
-Fully Paid Loans
+      Fully Paid Loans
 
-High Risk Portfolio
+      High Risk Portfolio
 
-🧠 Risk Logic
+🧠 Risk Logic:
 
-High-risk loans are flagged based on:
+      High-risk loans are flagged based on:
 
-Interest Rate > 15%
+      Interest Rate > 15%
 
-Debt-to-Income Ratio > 25
+      Debt-to-Income Ratio > 25
 
-Past Delinquencies > 0
+      Past Delinquencies > 0
 
 This simulates a simplified underwriting risk model used in fintech credit evaluation.
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
-Python
+      Python
 
-Streamlit
+      Streamlit
 
-Pandas
+       Pandas
 
-Plotly
+      Plotly
